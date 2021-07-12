@@ -16,5 +16,5 @@
 - 예비사용횟수로 접속한 PC는 예비사용횟수만을 사용하여 접속을 유지합니다<br>
 - (※ <span style="color:red">**주의**</span> 사용가능 계약 PC가 존재하여도 접속을 종료하지 않는 이상 예비사용횟수가 접속 종료시까지 계속 소진됨을 안내드립니다.※)<br>
 
-<span style="color:red">**주의**</span>
+<span style="color:red">주의</span>
 
